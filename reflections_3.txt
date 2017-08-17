@@ -15,3 +15,5 @@ more "risky" things.
 What is the benefit of having a copy of the last know state of the remote stored
 locally?
 This helps ensure things are in sync.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder? I'd send files via email or FTP. This would be harder because it would be more difficult to keep track of changes. One would have to sift through email histories to ensure everything was up-to-date. GitHub would be easier because it keeps all info in the same place and makes it easy to see changes and corresponding change histories.
